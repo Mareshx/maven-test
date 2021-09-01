@@ -1,0 +1,6 @@
+projectKey=CMC.POM
+serverUrl=https://sonarqube.innovation-factory.io
+serverVersion=8.2.0.32929
+dashboardUrl=https://sonarqube.innovation-factory.io/dashboard?id=CMC.POM
+ceTaskId=AXugjPjPaRDFyHW_Ca-f
+ceTaskUrl=https://sonarqube.innovation-factory.io/api/ce/task?id=AXugjPjPaRDFyHW_Ca-f
